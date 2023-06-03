@@ -1,4 +1,4 @@
-## Degreed Technical Challenge - DevOps Team (Cloud Engineer)
+## Technical Challenge - DevOps Team (Cloud Engineer)
 
 Welcome to the DevOps Cloud Engineer technical Challenge, we are glad to have you collaborating with us. For the time being we have opened this a little bit with using AWS, GCP and Azure cloud providers. Depending on familiarity with Kubernetes, we would expect this exercise to take a few hours. If you have any questions or feedback please let us know.
 
